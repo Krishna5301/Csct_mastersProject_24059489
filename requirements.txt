@@ -1,0 +1,17 @@
+prophet
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+openpyxl
+joblib
+statsmodels
+xgboost
+tf-nightly
+requests
+holidays
+tqdm
+cmdstanpy
+seaborn
